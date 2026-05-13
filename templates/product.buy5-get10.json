@@ -1,14 +1,26 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": { "type": "title", "settings": {} },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
         "text_UTjyD8": {
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Smells like...<strong>{{ product.metafields.custom.forgaylawyers.value }}<\/strong>",
+            "text": "Smells like...<strong>{{ product.metafields.custom.forgaylawyers.value }}</strong>",
             "text_style": "body"
           }
         },
@@ -17,16 +29,22 @@
           "disabled": true,
           "settings": {}
         },
-        "judge_me_reviews_preview_badge_kpVGVR": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "selling_points_9tdid6": {
+          "type": "selling_points",
           "settings": {}
         },
-        "selling_points_9tdid6": { "type": "selling_points", "settings": {} },
         "variant_picker": {
           "type": "variant_picker",
-          "settings": { "picker_type": "button", "swatch_shape": "circle" }
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
         },
-        "price": { "type": "price", "disabled": true, "settings": {} },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -54,17 +72,13 @@
         "money_back_eKXfnE": {
           "type": "money_back",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wt-money-back_1.svg",
-            "text": "<p><strong>Give it a try for 60 days completely risk-free.<\/strong> If you're not 100% satisfied, we'll give you a full refund, no questions asked!<\/p>"
+            "image": "shopify://shop_images/wt-money-back_1.svg",
+            "text": "<p><strong>Give it a try for 60 days completely risk-free.</strong> If you're not 100% satisfied, we'll give you a full refund, no questions asked!</p>"
           }
         },
         "cta_review_g7n3R8": {
           "type": "cta_review",
           "disabled": true,
-          "settings": {}
-        },
-        "judge_me_reviews_review_snippet_widget_R7mLaR": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_snippet_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         },
         "videos_iXPFhh": {
@@ -101,7 +115,7 @@
           "settings": {
             "heading": "Why are your perfumes so affordable?",
             "icon": "perfume",
-            "content": "<p>Our perfumes are affordable because we focus on what really matters — the fragrance itself — and eliminate unnecessary costs:<br\/><br\/>✔️ No expensive advertising – We don’t invest in celebrity campaigns or luxury branding, which allows us to offer lower prices.<br\/><br\/>✔️ Simple, elegant packaging – Instead of costly designer bottles, we use minimalist, stylish packaging that keeps production costs low.<br\/><br\/>✔️ Direct sales model – By selling online and bottling ourselves, we avoid intermediaries and retail mark-ups.<br\/><br\/>✔️ Alternative compositions, premium quality – Our fragrances are inspired by luxury brands but created under our own label, so you get high-quality scents without paying for the brand name.<br\/><br\/>The result? You enjoy long-lasting, high-quality perfumes at a price that makes sense.<\/p>",
+            "content": "<p>Our perfumes are affordable because we focus on what really matters — the fragrance itself — and eliminate unnecessary costs:<br/><br/>✔️ No expensive advertising – We don’t invest in celebrity campaigns or luxury branding, which allows us to offer lower prices.<br/><br/>✔️ Simple, elegant packaging – Instead of costly designer bottles, we use minimalist, stylish packaging that keeps production costs low.<br/><br/>✔️ Direct sales model – By selling online and bottling ourselves, we avoid intermediaries and retail mark-ups.<br/><br/>✔️ Alternative compositions, premium quality – Our fragrances are inspired by luxury brands but created under our own label, so you get high-quality scents without paying for the brand name.<br/><br/>The result? You enjoy long-lasting, high-quality perfumes at a price that makes sense.</p>",
             "page": ""
           }
         },
@@ -110,7 +124,7 @@
           "settings": {
             "heading": "Is it a perfumed water?",
             "icon": "perfume",
-            "content": "<p>Our fragrances go far beyond simple perfumed water. At Try Scent, we offer high-quality <strong>Eau de Parfum (EDP)<\/strong> with a perfume oil concentration of <strong>19-21%<\/strong>, ensuring long-lasting scent, excellent projection, and depth.<\/p><p>Unlike light body sprays or perfumed waters, our compositions are made to stay on your skin for many hours — often even until the next day. You enjoy an intense, refined fragrance experience at a fraction of the price of luxury brands.<\/p>",
+            "content": "<p>Our fragrances go far beyond simple perfumed water. At Try Scent, we offer high-quality <strong>Eau de Parfum (EDP)</strong> with a perfume oil concentration of <strong>19-21%</strong>, ensuring long-lasting scent, excellent projection, and depth.</p><p>Unlike light body sprays or perfumed waters, our compositions are made to stay on your skin for many hours — often even until the next day. You enjoy an intense, refined fragrance experience at a fraction of the price of luxury brands.</p>",
             "page": ""
           }
         },
@@ -119,7 +133,7 @@
           "settings": {
             "heading": "How long does the perfume last?",
             "icon": "perfume",
-            "content": "<p>Our perfumes are designed for excellent longevity. Thanks to a high fragrance oil concentration of <strong>19-21%<\/strong>, most of our scents stay noticeable on the skin for <strong>up to 24 hours<\/strong>, and often the fragrance can still be detected on clothes or hair the next day.<\/p><p>Of course, the exact durability depends on the specific fragrance, your skin type, and how it's applied — but compared to typical alternatives or light Eau de Toilette, Try Scent perfumes deliver significantly better performance.<\/p>",
+            "content": "<p>Our perfumes are designed for excellent longevity. Thanks to a high fragrance oil concentration of <strong>19-21%</strong>, most of our scents stay noticeable on the skin for <strong>up to 24 hours</strong>, and often the fragrance can still be detected on clothes or hair the next day.</p><p>Of course, the exact durability depends on the specific fragrance, your skin type, and how it's applied — but compared to typical alternatives or light Eau de Toilette, Try Scent perfumes deliver significantly better performance.</p>",
             "page": ""
           }
         },
@@ -128,7 +142,7 @@
           "settings": {
             "heading": "Is the inspired fragrance different?",
             "icon": "perfume",
-            "content": "<p>No — our inspired fragrances are designed as an <strong>exact copy<\/strong> of the originals from famous luxury brands. We carefully recreate the same fragrance structure, using identical scent notes and raw materials wherever possible.<\/p><p>✔️ <strong>1:1 fragrance impression<\/strong> – The scent is virtually indistinguishable from the original, even for experienced perfume lovers.<br\/><br\/>✔️ <strong>Same longevity and projection<\/strong> – Thanks to the high concentration of perfume oils (19-21%), our fragrances last just as long as the originals.<br\/><br\/>✔️ <strong>Affordable price, no compromise<\/strong> – You get the exact same olfactory experience without paying for the logo, marketing, or designer packaging.<\/p><p>In short: Our perfumes are identical to luxury brands in scent, quality, and durability — the only difference is the price.<\/p>",
+            "content": "<p>No — our inspired fragrances are designed as an <strong>exact copy</strong> of the originals from famous luxury brands. We carefully recreate the same fragrance structure, using identical scent notes and raw materials wherever possible.</p><p>✔️ <strong>1:1 fragrance impression</strong> – The scent is virtually indistinguishable from the original, even for experienced perfume lovers.<br/><br/>✔️ <strong>Same longevity and projection</strong> – Thanks to the high concentration of perfume oils (19-21%), our fragrances last just as long as the originals.<br/><br/>✔️ <strong>Affordable price, no compromise</strong> – You get the exact same olfactory experience without paying for the logo, marketing, or designer packaging.</p><p>In short: Our perfumes are identical to luxury brands in scent, quality, and durability — the only difference is the price.</p>",
             "page": ""
           }
         },
@@ -137,7 +151,7 @@
           "settings": {
             "heading": "What does 19-21% perfume mean?",
             "icon": "perfume",
-            "content": "<p>The percentage indicates the concentration of pure fragrance oils in the product. In our case, <strong>19-21% perfume concentration<\/strong> means:<\/p><p>✔️ It is classified as <strong>Eau de Parfum (EDP)<\/strong> — one of the most intense types of perfume available for daily use.<br\/><br\/>✔️ High fragrance oil content ensures excellent <strong>longevity<\/strong> — the scent stays noticeable on your skin for many hours, often until the next day.<br\/><br\/>✔️ Strong <strong>projection and depth<\/strong> — the fragrance unfolds in layers and maintains a rich, lasting character.<\/p><p>For comparison:<\/p><ul><li>5-15% fragrance oils.<br\/><\/li><li>15-25%, so our perfumes are at the upper end of this category.<br\/><\/li><li>25%, but is often much more expensive.<br\/><\/li><\/ul><p>In short: With 19-21%, you get an intense, long-lasting, and high-quality fragrance experience — perfect for anyone who wants designer-like performance at an affordable price.<\/p>",
+            "content": "<p>The percentage indicates the concentration of pure fragrance oils in the product. In our case, <strong>19-21% perfume concentration</strong> means:</p><p>✔️ It is classified as <strong>Eau de Parfum (EDP)</strong> — one of the most intense types of perfume available for daily use.<br/><br/>✔️ High fragrance oil content ensures excellent <strong>longevity</strong> — the scent stays noticeable on your skin for many hours, often until the next day.<br/><br/>✔️ Strong <strong>projection and depth</strong> — the fragrance unfolds in layers and maintains a rich, lasting character.</p><p>For comparison:</p><ul><li>5-15% fragrance oils.<br/></li><li>15-25%, so our perfumes are at the upper end of this category.<br/></li><li>25%, but is often much more expensive.<br/></li></ul><p>In short: With 19-21%, you get an intense, long-lasting, and high-quality fragrance experience — perfect for anyone who wants designer-like performance at an affordable price.</p>",
             "page": ""
           }
         },
@@ -146,21 +160,22 @@
           "settings": {
             "heading": "Compositions of Perfumes",
             "icon": "perfume",
-            "content": "<p>Alcohol Denat. Parfum (Fragrance) Aqua (Water) Limonene Linalool Citronellol Geraniol Citral Benzyl Salicylate Coumarin Alpha-Isomethyl Ionone Hexyl Cinnamal Benzyl Benzoate<\/p>",
+            "content": "<p>Alcohol Denat. Parfum (Fragrance) Aqua (Water) Limonene Linalool Citronellol Geraniol Citral Benzyl Salicylate Coumarin Alpha-Isomethyl Ionone Hexyl Cinnamal Benzyl Benzoate</p>",
             "page": ""
           }
         },
         "share": {
           "type": "share",
           "disabled": true,
-          "settings": { "share_label": "Share" }
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
         "title",
         "text_UTjyD8",
         "inspired_by_bnMw8W",
-        "judge_me_reviews_preview_badge_kpVGVR",
         "selling_points_9tdid6",
         "variant_picker",
         "price",
@@ -169,7 +184,6 @@
         "icon_with_text_rgXMXN",
         "money_back_eKXfnE",
         "cta_review_g7n3R8",
-        "judge_me_reviews_review_snippet_widget_R7mLaR",
         "videos_iXPFhh",
         "collapsible_tab_XYmgtQ",
         "collapsible_tab_PtUaDN",
@@ -181,7 +195,9 @@
         "collapsible_tab_F64PJg",
         "share"
       ],
-      "custom_css": [".jdgm-preview-badge .jdgm-star {color: #208746;}"],
+      "custom_css": [
+        ".jdgm-preview-badge .jdgm-star {color: #208746;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-1",
@@ -262,9 +278,9 @@
       "settings": {
         "background_color": "#fcfbf9",
         "title": "How We Compare",
-        "logo": "shopify:\/\/shop_images\/catsoft-logo.svg",
+        "logo": "shopify://shop_images/catsoft-logo.svg",
         "btn_text": "5 SCENTS 1 Affordable Price",
-        "btn_url": "shopify:\/\/products\/5-scents-1-affordable-price",
+        "btn_url": "shopify://products/5-scents-1-affordable-price",
         "review_text": "“All my fragrances are amazing! The scent lasts so long, and they all smell just like the designer ones. I receive so many compliments on them - very satisfied!”",
         "review_author": "Diamond J.",
         "padding_top": 72,
@@ -279,7 +295,7 @@
           "settings": {
             "heading": "Do your fragrances smell the same as the designer inspiration?",
             "icon": "none",
-            "row_content": "<p>Yes! 97% of our customers say their TEV fragrance<strong> smells the same <\/strong>as the designer <\/p><p>inspiration, and with over <strong>2 million orders placed<\/strong> with us so far, we must be doing something right.<\/p>",
+            "row_content": "<p>Yes! 97% of our customers say their TEV fragrance<strong> smells the same </strong>as the designer </p><p>inspiration, and with over <strong>2 million orders placed</strong> with us so far, we must be doing something right.</p>",
             "page": ""
           }
         },
@@ -288,7 +304,7 @@
           "settings": {
             "heading": "How can I trust the quality at the price point you offer?",
             "icon": "none",
-            "row_content": "<p>We use <strong>high quality fragrance oils and perfumer’s alcohol<\/strong>, just like the big name brands.<\/p><p>Their products are so much more expensive because they’re charging you for fancy bottles, celebrity models, and a brand name.<\/p><p>We cut the overcomplicated packaging and overpriced marketing, so we can make our products <strong>affordable without compromising on quality<\/strong>.<\/p><p>And with over <strong>85,000 5 star reviews<\/strong>, our customers clearly agree!<\/p>",
+            "row_content": "<p>We use <strong>high quality fragrance oils and perfumer’s alcohol</strong>, just like the big name brands.</p><p>Their products are so much more expensive because they’re charging you for fancy bottles, celebrity models, and a brand name.</p><p>We cut the overcomplicated packaging and overpriced marketing, so we can make our products <strong>affordable without compromising on quality</strong>.</p><p>And with over <strong>85,000 5 star reviews</strong>, our customers clearly agree!</p>",
             "page": ""
           }
         },
@@ -297,7 +313,7 @@
           "settings": {
             "heading": "How long will the scent last?",
             "icon": "none",
-            "row_content": "<p><strong>It lasts all day.<\/strong> No, seriously. <\/p><p>We use<strong> full strength Parfums<\/strong> - the highest concentration of fragrance oil - and we sourced the best perfumer’s alcohol we could find. Because why pay [38p\/62c] per spray for designer perfume that fades too fast, when you can pay <strong>1p for a TEV spray which lasts all day<\/strong>?<\/p>",
+            "row_content": "<p><strong>It lasts all day.</strong> No, seriously. </p><p>We use<strong> full strength Parfums</strong> - the highest concentration of fragrance oil - and we sourced the best perfumer’s alcohol we could find. Because why pay [38p/62c] per spray for designer perfume that fades too fast, when you can pay <strong>1p for a TEV spray which lasts all day</strong>?</p>",
             "page": ""
           }
         },
@@ -306,7 +322,7 @@
           "settings": {
             "heading": "Tell me more about delivery options.",
             "icon": "none",
-            "row_content": "<p>Speed is of The Essence, so we offer same-day dispatch as standard, and you’ll receive your order within<strong>2-3 working days<\/strong>. Our<a href=\"https:\/\/www.theessencevault.co.uk\/products\/100ml-x3-perfume-set-tev\"><span style=\"text-decoration:underline\">100ml x3 bundle<\/span><\/a>is £49.99, so you could have a year’s worth of fragrance by the day after tomorrow without paying for shipping!<\/p>",
+            "row_content": "<p>Speed is of The Essence, so we offer same-day dispatch as standard, and you’ll receive your order within<strong>2-3 working days</strong>. Our<a href=\"https://www.theessencevault.co.uk/products/100ml-x3-perfume-set-tev\"><span style=\"text-decoration:underline\">100ml x3 bundle</span></a>is £49.99, so you could have a year’s worth of fragrance by the day after tomorrow without paying for shipping!</p>",
             "page": ""
           }
         },
@@ -315,7 +331,7 @@
           "settings": {
             "heading": " Are your products vegan friendly and cruelty free?",
             "icon": "none",
-            "row_content": "<p>We only use <strong>vegan-friendly<\/strong> fragrance oils, and of course they are <strong>cruelty-free<\/strong>! We wouldn't have it any other way. Smell good, feel good, do good.<\/p>",
+            "row_content": "<p>We only use <strong>vegan-friendly</strong> fragrance oils, and of course they are <strong>cruelty-free</strong>! We wouldn't have it any other way. Smell good, feel good, do good.</p>",
             "page": ""
           }
         }
@@ -347,23 +363,18 @@
       "name": "Tryscent Guarantee",
       "settings": {
         "background_color": "#fcfbf9",
-        "icon": "shopify:\/\/shop_images\/wt-money-back_1.svg",
+        "icon": "shopify://shop_images/wt-money-back_1.svg",
         "title": "TryScent Guarantee",
-        "description": "<p>At The Essence Vault, we believe in fragrances that make you feel amazing. That's why we offer a 60-day money-back guarantee—so you can shop with confidence.<\/p><p>If you're not completely in love with your scent, simply return it within 60 days for a full refund. No hassle, no stress—just a promise that you'll find a fragrance you truly adore.<\/p>",
+        "description": "<p>At The Essence Vault, we believe in fragrances that make you feel amazing. That's why we offer a 60-day money-back guarantee—so you can shop with confidence.</p><p>If you're not completely in love with your scent, simply return it within 60 days for a full refund. No hassle, no stress—just a promise that you'll find a fragrance you truly adore.</p>",
         "padding_top": 72,
         "padding_bottom": 72
       }
     },
     "1751863713a9594609": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_K8hgi4": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": ["judge_me_reviews_review_widget_K8hgi4"],
-      "settings": { "include_margins": true }
+      "settings": {
+        "include_margins": true
+      }
     },
     "related-products": {
       "type": "related-products",
@@ -383,7 +394,10 @@
         "padding_bottom": 28
       }
     },
-    "floating-atc": { "type": "floating-atc", "settings": {} }
+    "floating-atc": {
+      "type": "floating-atc",
+      "settings": {}
+    }
   },
   "order": [
     "main",
