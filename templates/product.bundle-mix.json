@@ -134,13 +134,12 @@
         "videos_iXPFhh": {
           "type": "videos",
           "settings": {
-            "video1": "shopify://files/videos/Perfume REV 2 UGC 15-6-25.mp4",
-            "video_poster_1": "shopify://shop_images/videoframe_715.png",
+            "video1": "shopify://files/videos/Perfume rev 2  2nd  UGC 15-6-25.mp4",
+            "video_poster_1": "shopify://shop_images/videoframe_5040.png",
             "video2": "shopify://files/videos/Perfume 2nd 21-06-25.mp4",
             "video_poster_2": "shopify://shop_images/videoframe_5651.png",
-            "video3": "shopify://files/videos/Perfume rev 2  2nd  UGC 15-6-25.mp4",
-            "video_poster_3": "shopify://shop_images/videoframe_5040.png",
-            "video4": "shopify://files/videos/RIEV 21-06-25.mp4"
+            "video3": "shopify://files/videos/RIEV 21-06-25.mp4",
+            "video_poster_3": "shopify://shop_images/videoframe_715.png"
           }
         },
         "collapsible_tab_XYmgtQ": {
