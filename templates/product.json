@@ -76,7 +76,8 @@
           "type": "videos",
           "settings": {
             "video1": "shopify://files/videos/Perfume rev 2  2nd  UGC 15-6-25.mp4",
-            "video_poster_1": "shopify://shop_images/videoframe_5040.png"
+            "video_poster_1": "shopify://shop_images/videoframe_5040.png",
+            "video2": "shopify://files/videos/Perfume 2nd 21-06-25.mp4"
           }
         },
         "dialect_notes_NHiwen": {
