@@ -11,64 +11,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "marquee_labels_CjAgNU": {
-      "type": "marquee-labels",
-      "blocks": {
-        "label_Qg6CjC": {
-          "type": "label",
-          "disabled": true,
-          "settings": {
-            "label": "FREE SHIPPING ON ORDERS ABOVE $50"
-          }
-        },
-        "label_h4EKbX": {
-          "type": "label",
-          "settings": {
-            "label": "SAVE UPTO 50% OFF WITH OUR BUNDLES & GIFT SETS"
-          }
-        },
-        "label_yJphg9": {
-          "type": "label",
-          "settings": {
-            "label": "100% AUTHENTIC"
-          }
-        },
-        "label_nYhF3R": {
-          "type": "label",
-          "settings": {
-            "label": "EXPERT-CURATED COLLECTIONS"
-          }
-        },
-        "label_RqnDUx": {
-          "type": "label",
-          "settings": {
-            "label": "RISK-FREE 60 DAYS MONEY BACK GUARANTEE"
-          }
-        }
-      },
-      "block_order": [
-        "label_Qg6CjC",
-        "label_h4EKbX",
-        "label_yJphg9",
-        "label_nYhF3R",
-        "label_RqnDUx"
-      ],
-      "disabled": true,
-      "name": "Marquee Labels",
-      "settings": {}
-    },
-    "offer_announcement_cN6pMF": {
-      "type": "offer-announcement",
-      "disabled": true,
-      "name": "Offer Announcement",
-      "settings": {
-        "background_color": "#114325",
-        "prepend_text": "Valentine Offer",
-        "link_text": "Buy 2 Get 1 Free!",
-        "append_text": "Shop Now 👉",
-        "link": "shopify://products/tryscent-collection"
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -90,8 +32,6 @@
     }
   },
   "order": [
-    "marquee_labels_CjAgNU",
-    "offer_announcement_cN6pMF",
     "header"
   ]
 }
