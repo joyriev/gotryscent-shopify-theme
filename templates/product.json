@@ -287,43 +287,47 @@
       "disabled": true,
       "settings": {}
     },
-    "feature_highlights_F49xPK": {
+    "feature_highlights_QPVALL": {
       "type": "feature-highlights",
       "blocks": {
-        "perks_DPGCpd": {
+        "perks_TqEnQg": {
           "type": "perks",
           "settings": {
+            "perk_image": "shopify://shop_images/icons_eu.webp",
             "perk_title": "Made in the EU",
             "perk_content": "Vegan, cruelty-free, and made in the EU."
           }
         },
-        "perks_EWQVaW": {
+        "perks_3dfEX4": {
           "type": "perks",
           "settings": {
+            "perk_image": "shopify://shop_images/icons_quality.webp",
             "perk_title": "French Quality Standard",
             "perk_content": "Crafted with the same attention to detail as designer brands."
           }
         },
-        "perks_DrmURb": {
+        "perks_XkcknA": {
           "type": "perks",
           "settings": {
+            "perk_image": "shopify://shop_images/icons_guarantee.webp",
             "perk_title": "Money-Back Guarantee",
             "perk_content": "We accept products back within 60 days for a refund."
           }
         },
-        "perks_CTzfGb": {
+        "perks_xMRRaY": {
           "type": "perks",
           "settings": {
+            "perk_image": "shopify://shop_images/icons_time.webp",
             "perk_title": "Long-Lasting",
             "perk_content": "Lasts for 12+ hours (some say longer)."
           }
         }
       },
       "block_order": [
-        "perks_DPGCpd",
-        "perks_EWQVaW",
-        "perks_DrmURb",
-        "perks_CTzfGb"
+        "perks_TqEnQg",
+        "perks_3dfEX4",
+        "perks_XkcknA",
+        "perks_xMRRaY"
       ],
       "name": "Feature Highlights",
       "settings": {
@@ -1276,7 +1280,7 @@
   "order": [
     "main",
     "pdp_bundle_builder",
-    "feature_highlights_F49xPK",
+    "feature_highlights_QPVALL",
     "cupid-video-reviews",
     "manus_smell_journey_enxN4a",
     "scent_breakdown_rG4H3T",
