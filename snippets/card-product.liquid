@@ -235,7 +235,7 @@ TODO: Show bestseller tag if the product contains "bestseller" tag.
               {% endif %}
 
               <div class="font-bold tracking-normal text-lg flex items-center flex-wrap gap-1">
-                {% unless card_product.tags contains 'onsale' %}
+                {% unless card_product.tags contains 'onsale' and  card_product.compare_at_price > card_product.price %}
                   <span class="starts_at_text">Starts at</span>
                 {% endunless %}
                 {{ card_product.price | money }}
