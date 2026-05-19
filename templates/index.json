@@ -195,10 +195,10 @@
       "name": "New Products",
       "settings": {
         "background_color": "#fcfbf9",
-        "title": "🔥Senaste dofterna",
+        "title": "🔥 Latest Fragrances",
         "description": "",
         "collection": "new",
-        "button_text": "Visa alla",
+        "button_text": "View all",
         "button_link": "shopify://collections/new",
         "padding_top": 72,
         "padding_bottom": 72
