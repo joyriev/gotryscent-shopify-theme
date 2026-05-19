@@ -238,7 +238,7 @@ TODO: Show bestseller tag if the product contains "bestseller" tag.
                 {% unless card_product.tags contains 'onsale' and  card_product.compare_at_price > card_product.price %}
                   <span class="starts_at_text">Starts at</span>
                 {% endunless %}
-                {{ card_product.compare_at_price | money }}
+                {{ card_product.price | money }}
                 {% if card_product.tags contains 'onsale' and  card_product.compare_at_price > card_product.price %}
                   <span class="line-through text-[#c8202f] font-normal">
                     {{ cart.currency.symbol }}{{ card_product.compare_at_price | money_without_currency }}
