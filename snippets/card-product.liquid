@@ -226,24 +226,20 @@ TODO: Show bestseller tag if the product contains "bestseller" tag.
             <span class="caption-large light">{{ block.settings.description | escape }}</span>
 
               <div class="font-bold tracking-normal text-lg flex items-center flex-wrap gap-1">
-                {% unless card_product.tags contains 'onsale' %}
-                  <span class="starts_at_text">Börjar kl</span>
+                {% unless card_product.tags contains 'onsale' and  card_product.compare_at_price > card_product.price %}
+                  <span class="starts_at_text">Starts at</span>
                 {% endunless %}
                 {{ card_product.price | money }}
-                {% if card_product.tags contains 'onsale' %}
+                {% if card_product.tags contains 'onsale' and  card_product.compare_at_price > card_product.price %}
                   <span class="line-through text-[#c8202f] font-normal">
                     {{ cart.currency.symbol }}{{ card_product.compare_at_price | money_without_currency }}
                   </span>
+                  {% assign discount_percent = 0 %}
+                  {% assign discount_percent = card_product.compare_at_price | minus: card_product.price | times: 100.0 | divided_by: card_product.compare_at_price | round %}
+                  <span class="inline-block bg-red-600 text-white text-xs font-bold px-2 py-1 rounded-full">
+                    {{ discount_percent }}% Off
+                  </span>
                 {% endif %}
-                {% if card_product.tags contains 'onsale' %}
-              {% assign discount_percent = 0 %}
-              {% if card_product.compare_at_price > card_product.price %}
-                {% assign discount_percent = card_product.compare_at_price | minus: card_product.price | times: 100.0 | divided_by: card_product.compare_at_price | round %}
-              {% endif %}
-              <span class="inline-block bg-red-600 text-white text-xs font-bold px-2 py-1 rounded-full">
-                {{ discount_percent }}% Off
-              </span>
-            {% endif %}
               </div>
             
             {%- if card_product.quantity_price_breaks_configured? -%}

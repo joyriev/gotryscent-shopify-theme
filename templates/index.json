@@ -195,10 +195,10 @@
       "name": "New Products",
       "settings": {
         "background_color": "#fcfbf9",
-        "title": "🔥Senaste dofterna",
+        "title": "🔥 Latest Fragrances",
         "description": "",
         "collection": "new",
-        "button_text": "Visa alla",
+        "button_text": "View all",
         "button_link": "shopify://collections/new",
         "padding_top": 72,
         "padding_bottom": 72
@@ -209,11 +209,11 @@
       "name": "Popular Products",
       "settings": {
         "background_color": "#fcfbf9",
-        "title": "Populära produkter",
-        "description": "<p>”Utan tvekan de bästa kopiorna jag har provat. De håller i timmar när de väl är applicerade—och jag planerar redan min nästa beställning.” — <strong>Jim Rogers</strong></p>",
+        "title": "Popular Products",
+        "description": "<p>\"Without a doubt the best copies I have tried. They last for hours once applied—and I'm already planning my next order.\" — Jim Rogers</p>",
         "collection": "best-sellers",
-        "button_text": "Visa alla",
-        "button_link": "shopify://collections/all",
+        "button_text": "View all",
+        "button_link": "shopify://collections/best-sellers",
         "padding_top": 72,
         "padding_bottom": 72
       }
