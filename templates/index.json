@@ -225,8 +225,8 @@
         "review_MKcdVw": {
           "type": "review",
           "settings": {
-            "heading": "Highly recommend.",
-            "content": "<p>From customer service to the product itself, the experience was excellent. Everything arrived as expected, and I’d happily purchase again.</p>",
+            "heading": "Rekommenderas varmt.",
+            "content": "<p>Från kundservice till produkten i sig upplevelsen var utmärkt. Allt kom precis som förväntat och jag köper gärna igen.</p>",
             "author": "Benjamin M.",
             "date": "2 days ago",
             "rating": 5,
@@ -237,8 +237,8 @@
         "review_kCUEm4": {
           "type": "review",
           "settings": {
-            "heading": "Arrived perfectly.",
-            "content": "<p>The product was well packaged, arrived in great condition, and the scent quality exceeded my expectations. Very happy with this purchase.</p>",
+            "heading": "Anlände perfekt.",
+            "content": "<p>Produkten var välförpackad, kom i fint skick och doftens kvalitet överträffade mina förväntningar. Mycket nöjd med köpet.</p>",
             "author": "Sharley A.",
             "date": "2 days ago",
             "rating": 5,
@@ -249,8 +249,8 @@
         "review_EbFNac": {
           "type": "review",
           "settings": {
-            "heading": "Great value for money.",
-            "content": "<p>I was genuinely impressed by the quality. The scent holds up well and feels comparable to much more expensive brands.</p>",
+            "heading": "Prisvärt och imponerande.",
+            "content": "<p>Jag blev genuint imponerad av kvaliteten. Doften håller sig väl och känns jämförbar med betydligt dyrare märken.</p>",
             "author": "Santosh K.",
             "date": "2 days ago",
             "rating": 5,
@@ -281,7 +281,7 @@
         "heading_ax7WWJ": {
           "type": "heading",
           "settings": {
-            "content": "Why EU-Made Fragrances Hit Different?",
+            "content": "Varför EU-tillverkade parfymer är annorlunda?",
             "heading_type": "h2",
             "font_size": 32,
             "mobile_font_size": 24
@@ -290,7 +290,7 @@
         "text_gzPVkb": {
           "type": "text",
           "settings": {
-            "content": "<ul><li>⁠Produced in EU facilities</li><li>⁠IFRA-compliant ingredients and formulations</li><li>No corner-cutting, no grey-market blending</li></ul><p>We Craft Perfumes under strict European cosmetic standards</p>",
+            "content": "<ul><li>Producerade i EU-anläggningar</li><li>IFRA-godkända ingredienser och formuleringar</li><li>Inga genvägar, ingen grå marknad</li></ul><p>Vi skapar parfymer enligt strikta europeiska kosmetikastandarder.</p>",
             "mobile_content": "",
             "font_size": 18
           }
