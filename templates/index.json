@@ -192,6 +192,7 @@
     },
     "popular_products_XDHbay": {
       "type": "popular-products",
+      "disabled": true,
       "name": "New Products",
       "settings": {
         "background_color": "#fcfbf9",
@@ -209,10 +210,10 @@
       "name": "Popular Products",
       "settings": {
         "background_color": "#fcfbf9",
-        "title": "Popular Products",
-        "description": "<p>\"Without a doubt the best copies I have tried. They last for hours once applied—and I'm already planning my next order.\" — Jim Rogers</p>",
+        "title": "Populära produkter",
+        "description": "<p>\"Utan tvekan de bästa inspirerade parfymerna jag provat. De håller i timmar efter applicering och jag planerar redan mitt nästa köp.\" ~ Jim Rogers<br/></p>",
         "collection": "best-sellers",
-        "button_text": "View all",
+        "button_text": "Visa alla",
         "button_link": "shopify://collections/best-sellers",
         "padding_top": 72,
         "padding_bottom": 72
