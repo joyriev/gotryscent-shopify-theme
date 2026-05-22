@@ -860,6 +860,7 @@
     },
     "our_bestsellers_niPBnL": {
       "type": "our-bestsellers",
+      "disabled": true,
       "name": "Our Bestsellers",
       "settings": {
         "background_color": "#226139",
