@@ -145,7 +145,7 @@
         "collapsible_tab_XYmgtQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Description",
+            "heading": "Beskrivning",
             "icon": "clipboard",
             "content": "{{ product.description }}",
             "page": ""
@@ -164,27 +164,27 @@
         "collapsible_tab_tUEYBx": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Why are your perfumes so affordable?",
+            "heading": "Varför är era parfymer så prisvärda?",
             "icon": "perfume",
-            "content": "<p>Our perfumes are affordable because we focus on what really matters — the fragrance itself — and eliminate unnecessary costs:<br/><br/>✔️ No expensive advertising – We don’t invest in celebrity campaigns or luxury branding, which allows us to offer lower prices.<br/><br/>✔️ Simple, elegant packaging – Instead of costly designer bottles, we use minimalist, stylish packaging that keeps production costs low.<br/><br/>✔️ Direct sales model – By selling online and bottling ourselves, we avoid intermediaries and retail mark-ups.<br/><br/>✔️ Alternative compositions, premium quality <br/><br/>The result? You enjoy long-lasting, high-quality perfumes at a price that makes sense.</p>",
+            "content": "<p>Våra parfymer är prisvärda eftersom vi fokuserar på det som verkligen betyder något – själva doften – och eliminerar onödiga kostnader:</p><p>✔️ Ingen dyr reklam – Vi investerar inte i kampanjer med kändisar eller lyxig varumärkesprofilering, vilket gör att vi kan erbjuda lägre priser. </p><p>✔️ Enkel, elegant förpackning – Istället för kostsamma designflaskor använder vi minimalistiska, stilrena förpackningar som håller produktionskostnaderna nere.</p><p>✔️ Direktförsäljningsmodell – Genom att sälja online och tappa upp parfymerna själva undviker vi mellanhänder och återförsäljarnas påslag.</p><p>✔️ Unika kompositioner, förstklassig kvalitet. Resultatet? Du får långvariga parfymer av hög kvalitet till ett rimligt pris.</p>",
             "page": ""
           }
         },
         "collapsible_tab_nhKiAc": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Is it a perfumed water?",
+            "heading": "Är det ett parfymerat vatten?",
             "icon": "perfume",
-            "content": "<p>Our fragrances go far beyond simple perfumed water. At Try Scent, we offer high-quality <strong>Eau de Parfum (EDP)</strong> with a perfume oil concentration of <strong>19-21%</strong>, ensuring long-lasting scent, excellent projection, and depth.</p><p>Unlike light body sprays or perfumed waters, our compositions are made to stay on your skin for many hours — often even until the next day. You enjoy an intense, refined fragrance experience at a fraction of the price of luxury brands.</p>",
+            "content": "<p>Våra dofter är så mycket mer än bara parfymerat vatten. Hos Try Scent erbjuder vi högkvalitativ Eau de Parfum (EDP) med en parfymoljekoncentration på 19–21 %, vilket garanterar en långvarig doft, utmärkt spridning och djup. </p><p>Till skillnad från lätta kroppssprayer eller parfymerat vatten är våra kompositioner skapade för att sitta kvar på huden i många timmar – ofta till och med ända till nästa dag. Du får en intensiv, raffinerad doftupplevelse till en bråkdel av priset jämfört med lyxmärken.</p>",
             "page": ""
           }
         },
         "collapsible_tab_pCrhqV": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How long does the perfume last?",
+            "heading": "Hur länge håller doften?",
             "icon": "perfume",
-            "content": "<p>Our perfumes are designed for excellent longevity. Thanks to a high fragrance oil concentration of <strong>19-21%</strong>, most of our scents stay noticeable on the skin for <strong>up to 24 hours</strong>, and often the fragrance can still be detected on clothes or hair the next day.</p><p>Of course, the exact durability depends on the specific fragrance, your skin type, and how it's applied — but compared to typical alternatives or light Eau de Toilette, Try Scent perfumes deliver significantly better performance.</p>",
+            "content": "<p>Våra parfymer är framtagna för att hålla länge. Tack vare en hög koncentration av doftolja på 19–21 % kvarstår de flesta av våra dofter på huden i upp till 12 timmar, och ofta kan doften fortfarande kännas på kläder eller hår dagen efter. </p><p>Naturligtvis beror den exakta hållbarheten på den specifika doften, din hudtyp och hur den appliceras – men jämfört med vanliga alternativ eller lätta Eau de Toilette-parfymer ger Try Scent-parfymerna betydligt bättre prestanda.</p>",
             "page": ""
           }
         },
@@ -201,27 +201,18 @@
         "collapsible_tab_pdYPYn": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What does 19-21% perfume mean?",
+            "heading": "Vad betyder att en parfym har en koncentration på 19–21 %?",
             "icon": "perfume",
-            "content": "<p>The percentage indicates the concentration of pure fragrance oils in the product. In our case, <strong>19-21% perfume concentration</strong> means:</p><p>✔️ It is classified as <strong>Eau de Parfum (EDP)</strong> — one of the most intense types of perfume available for daily use.<br/><br/>✔️ High fragrance oil content ensures excellent <strong>longevity</strong> — the scent stays noticeable on your skin for many hours, often until the next day.<br/><br/>✔️ Strong <strong>projection and depth</strong> — the fragrance unfolds in layers and maintains a rich, lasting character.</p><p>For comparison:</p><ul><li>5-15% fragrance oils.<br/></li><li>15-25%, so our perfumes are at the upper end of this category.<br/></li><li>25%, but is often much more expensive.<br/></li></ul><p>In short: With 19-21%, you get an intense, long-lasting, and high-quality fragrance experience — perfect for anyone who wants designer-like performance at an affordable price.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_F64PJg": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Compositions of Perfumes",
-            "icon": "perfume",
-            "content": "<p>Alcohol Denat. Parfum (Fragrance) Aqua (Water) Limonene Linalool Citronellol Geraniol Citral Benzyl Salicylate Coumarin Alpha-Isomethyl Ionone Hexyl Cinnamal Benzyl Benzoate</p>",
+            "content": "<p>Procenttalet anger koncentrationen av rena doftoljor i produkten. I vårt fall innebär en parfymkoncentration på 19–21 % följande:</p><p>✔️ Den klassificeras som Eau de Parfum (EDP) – en av de mest intensiva parfymtyperna som finns för daglig användning.</p><p>✔️ Det höga innehållet av doftolja garanterar utmärkt hållbarhet – doften kvarstår på huden i många timmar, ofta ända till nästa dag.</p><p>✔️ Stark spridning och djup – doften utvecklas i lager och behåller en rik, bestående karaktär. Som jämförelse: 5–15 % doftoljor. 15–25 %, så våra parfymer ligger i den övre delen av denna kategori. 25 %, men är ofta betydligt dyrare. </p><p>Kort sagt: Med 19–21 % får du en intensiv, långvarig och högkvalitativ doftupplevelse – perfekt för alla som vill ha en prestanda i designerklass till ett överkomligt pris.</p>",
             "page": ""
           }
         },
         "collapsible_tab_ydfzCq": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "COMPARATIVE ADVERTISING DISCLAIMER",
+            "heading": "ANSVARSFRISKRIVNING AVSEENDE JÄMFÖRANDE REKLAM",
             "icon": "star",
-            "content": "<p>Please be aware that products mentioned throughout our site are a mere guide and in no circumstance should be mistaken for the actual high street, designer or Niche brand. Names and copyrights, used or unused, are properties of their respective manufacturers and/or designers. <br/><br/>These are simply inspirations, and are not ‘identical’ to any other fragrance or original.<br/><br/>Tryscent perfumes are not to be confused with originals and we have no affiliation with the manufacturers of these unnamed designer brands. <br/><br/>All ‘Trademarks’, used or unused, are property of their respective owners. We are not endorsed by, directly affiliated with, maintained, authorised, or sponsored by any trademark holder referenced or unreferenced herein. <br/><br/>The use of any product name is for identification and reference purposes only, and does not imply any association with the trademark holder.</p>",
+            "content": "<p>Observera att de produkter som nämns på vår webbplats endast är vägledande och under inga omständigheter ska förväxlas med de faktiska varumärkena från butikskedjor, designers eller nischmärken. Namn och upphovsrätt, oavsett om de används eller inte, tillhör respektive tillverkare och/eller designer. </p><p>Dessa är endast inspirationskällor och är inte ”identiska” med någon annan doft eller originalprodukt. Tryscent-parfymer ska inte förväxlas med originalprodukter och vi har ingen anknytning till tillverkarna av dessa namnlösa designermärken. </p><p>Alla ”varumärken”, oavsett om de används eller inte, tillhör sina respektive ägare. Vi är inte godkända av, direkt knutna till, underhållna, auktoriserade eller sponsrade av någon varumärkesinnehavare som nämns eller inte nämns här. </p><p>Användningen av produktnamn sker endast i identifierings- och referenssyfte och innebär inte någon koppling till varumärkesinnehavaren.</p>",
             "page": ""
           }
         },
@@ -261,7 +252,6 @@
         "collapsible_tab_pCrhqV",
         "collapsible_tab_gkD4Ei",
         "collapsible_tab_pdYPYn",
-        "collapsible_tab_F64PJg",
         "collapsible_tab_ydfzCq",
         "share"
       ],
