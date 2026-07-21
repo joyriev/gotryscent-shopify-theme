@@ -50,6 +50,7 @@
         },
         "text_GrNJKg": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Toppnoter:</strong> {{ product.metafields.custom.top_notes.value.heading.value }}",
             "text_style": "body"
@@ -66,6 +67,14 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
+          }
+        },
+        "magyx_bundle_bundle_contents_37ghw9": {
+          "type": "shopify://apps/magyx-bundle/blocks/bundle-contents/019f8307-8537-7094-8efe-f29e0fb8cb3b",
+          "settings": {
+            "heading": "What's inside:",
+            "show_prices": false,
+            "accent_color": "#1a1a1a"
           }
         },
         "atc_bundle_builder_aLJUaV": {
@@ -234,6 +243,7 @@
         "text_GrNJKg",
         "quantity_selector",
         "buy_buttons",
+        "magyx_bundle_bundle_contents_37ghw9",
         "atc_bundle_builder_aLJUaV",
         "videos_Mhak3R",
         "dialect_notes_NHiwen",
