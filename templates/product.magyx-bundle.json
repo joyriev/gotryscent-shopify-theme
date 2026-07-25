@@ -69,13 +69,9 @@
             "show_gift_card_recipient": true
           }
         },
-        "magyx_bundle_bundle_contents_37ghw9": {
-          "type": "shopify://apps/magyx-bundle/blocks/bundle-contents/019f8307-8537-7094-8efe-f29e0fb8cb3b",
-          "settings": {
-            "heading": "What's inside:",
-            "show_prices": false,
-            "accent_color": "#1a1a1a"
-          }
+        "magyx_bundle_quantity_breaks_YBWpDn": {
+          "type": "shopify://apps/magyx-bundle/blocks/quantity-breaks/019f8307-8537-7094-8efe-f29e0fb8cb3b",
+          "settings": {}
         },
         "atc_bundle_builder_aLJUaV": {
           "type": "atc_bundle_builder",
@@ -243,7 +239,7 @@
         "text_GrNJKg",
         "quantity_selector",
         "buy_buttons",
-        "magyx_bundle_bundle_contents_37ghw9",
+        "magyx_bundle_quantity_breaks_YBWpDn",
         "atc_bundle_builder_aLJUaV",
         "videos_Mhak3R",
         "dialect_notes_NHiwen",
