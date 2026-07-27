@@ -264,6 +264,7 @@
         "review_kCUEm4",
         "review_EbFNac"
       ],
+      "disabled": true,
       "name": "Review Grid",
       "settings": {
         "background_color": "#ffffff",
@@ -886,13 +887,13 @@
     "marquee_labels_RLdqpN",
     "feature_highlights_wfUacV",
     "popular_products_XDHbay",
+    "custom_liquid_JU8Jj3",
     "popular_products_pNDeh4",
     "review_grid_H3xfHP",
     "image_and_text",
     "home_category_wNQCfP",
     "makes_different_list_YjiDH8",
     "massive_review_section",
-    "our_bestsellers_niPBnL",
-    "custom_liquid_JU8Jj3"
+    "our_bestsellers_niPBnL"
   ]
 }
