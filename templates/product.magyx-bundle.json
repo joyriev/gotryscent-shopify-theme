@@ -73,6 +73,10 @@
           "type": "shopify://apps/magyx-bundle/blocks/quantity-breaks/019f8307-8537-7094-8efe-f29e0fb8cb3b",
           "settings": {}
         },
+        "magyx_bundle_bundle_builder_wV4bfP": {
+          "type": "shopify://apps/magyx-bundle/blocks/bundle-builder/019f8307-8537-7094-8efe-f29e0fb8cb3b",
+          "settings": {}
+        },
         "atc_bundle_builder_aLJUaV": {
           "type": "atc_bundle_builder",
           "settings": {}
@@ -240,6 +244,7 @@
         "quantity_selector",
         "buy_buttons",
         "magyx_bundle_quantity_breaks_YBWpDn",
+        "magyx_bundle_bundle_builder_wV4bfP",
         "atc_bundle_builder_aLJUaV",
         "videos_Mhak3R",
         "dialect_notes_NHiwen",
