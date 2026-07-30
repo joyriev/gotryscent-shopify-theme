@@ -61,20 +61,20 @@
           "disabled": true,
           "settings": {}
         },
+        "magyx_bundle_bundle_builder_wV4bfP": {
+          "type": "shopify://apps/magyx-bundle/blocks/bundle-builder/019f8307-8537-7094-8efe-f29e0fb8cb3b",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
-        "magyx_bundle_bundle_builder_wV4bfP": {
-          "type": "shopify://apps/magyx-bundle/blocks/bundle-builder/019f8307-8537-7094-8efe-f29e0fb8cb3b",
-          "settings": {}
-        },
         "atc_bundle_builder_aLJUaV": {
           "type": "atc_bundle_builder",
+          "disabled": true,
           "settings": {}
         },
         "videos_Mhak3R": {
@@ -238,8 +238,8 @@
         "price",
         "text_GrNJKg",
         "quantity_selector",
-        "buy_buttons",
         "magyx_bundle_bundle_builder_wV4bfP",
+        "buy_buttons",
         "atc_bundle_builder_aLJUaV",
         "videos_Mhak3R",
         "dialect_notes_NHiwen",
