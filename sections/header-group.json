@@ -17,9 +17,9 @@
       "settings": {
         "background_color": "#15803d",
         "forground_color": "#15803d",
-        "prepend_text": "LÖNEDAGSREA – 30% RABATT PÅ HELA VARUKORGEN",
-        "countdown_date": "2026/08/02",
-        "append_text": "",
+        "prepend_text": "Tillbaka till skolan-kampanj!",
+        "countdown_date": "2026/08/20",
+        "append_text": "Köp 3, få 1 gratis",
         "link": "shopify://collections/bundle-save"
       }
     },
