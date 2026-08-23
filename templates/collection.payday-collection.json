@@ -45,7 +45,7 @@
         "guarantee_f7VNpU": {
           "type": "guarantee",
           "settings": {
-            "icon": "shopify://shop_images/sandwatch.svg",
+            "icon": "shopify://shop_images/sandwatch_1.svg",
             "text": "Håller 12+ timmar"
           }
         },
@@ -59,7 +59,7 @@
         "guarantee_Y3gwRj": {
           "type": "guarantee",
           "settings": {
-            "icon": "shopify://shop_images/sheild-star.svg",
+            "icon": "shopify://shop_images/sheild-star_1.svg",
             "text": "60 dagars pengarna-tillbaka-garanti"
           }
         }
@@ -74,7 +74,7 @@
       ],
       "name": "Collection Header",
       "settings": {
-        "background_color": "#F5F1E9",
+        "background_color": "#f5f1e9",
         "text_color": "#000000",
         "bg_image": "shopify://shop_images/payday_banner.png",
         "bg_mobile_image": "shopify://shop_images/payday_mobile_Nobottles.jpg",
