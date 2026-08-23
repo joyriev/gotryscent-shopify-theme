@@ -16,7 +16,6 @@
           "type": "story",
           "settings": {
             "title": "LV",
-            "image": "shopify://shop_images/new-arribals.png",
             "link": "shopify://collections/louis-vuitton®"
           }
         },
@@ -24,7 +23,6 @@
           "type": "story",
           "settings": {
             "title": "Dior",
-            "image": "shopify://shop_images/dior.avif",
             "link": "shopify://collections/dior®"
           }
         },
@@ -32,7 +30,6 @@
           "type": "story",
           "settings": {
             "title": "Tom Ford",
-            "image": "shopify://shop_images/Tom_ford.avif",
             "link": "shopify://collections/tomford®"
           }
         },
@@ -40,7 +37,6 @@
           "type": "story",
           "settings": {
             "title": "Baccarat",
-            "image": "shopify://shop_images/Baccarat_Rouge.png",
             "link": "shopify://collections/baccarat-rouge®"
           }
         },
@@ -48,7 +44,6 @@
           "type": "story",
           "settings": {
             "title": "Creed",
-            "image": "shopify://shop_images/Creed.png",
             "link": "shopify://collections/creed®"
           }
         },
@@ -57,7 +52,6 @@
           "disabled": true,
           "settings": {
             "title": "Xerjoff",
-            "image": "shopify://shop_images/xerjoff.avif",
             "link": ""
           }
         }
@@ -78,16 +72,15 @@
       "blocks": {
         "ai_gen_block_e785142_aNhdBb": {
           "type": "ai_gen_block_e785142",
-          "settings": {
-            "desktop_image": "shopify://shop_images/Payday_4_2_Banner.png",
-            "mobile_image": "shopify://shop_images/Payday_sale_mobile.png"
-          },
+          "disabled": true,
+          "settings": {},
           "blocks": {}
         }
       },
       "block_order": [
         "ai_gen_block_e785142_aNhdBb"
       ],
+      "disabled": true,
       "settings": {}
     },
     "banner": {
