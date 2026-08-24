@@ -1,0 +1,23 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "context": {
+    "market": "sweden"
+  },
+  "parent": "collection.payday-collection.json",
+  "sections": {
+    "blocky_image_embedded_gFdm3L": {
+      "settings": {
+        "image": "shopify://shop_images/PaydayDeal_Header_-_TryScent_-_SV_328f922d-6442-4c59-91ce-45a329f715b3.webp"
+      },
+      "blocks": {}
+    }
+  }
+}
