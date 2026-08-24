@@ -11,12 +11,12 @@
   "context": {
     "market": "australia"
   },
-  "parent": "index.json",
+  "parent": "header-group.json",
   "sections": {
-    "homepage_hero_GDeBtq": {
+    "offer_timebar_39KLTc": {
       "settings": {
-        "title": "LØNDSDAGSUDSALG – 30% RABAT",
-        "subtitle": "Køb dine yndlingsdufte til endnu bedre priser! Og spar endnu mere med pakketilbud!"
+        "prepend_text": "LØNDSDAGSUDSALG:",
+        "append_text": "– 30% RABAT"
       },
       "blocks": {}
     }
