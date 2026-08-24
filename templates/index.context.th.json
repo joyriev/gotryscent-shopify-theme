@@ -12,5 +12,14 @@
     "market": "th"
   },
   "parent": "index.json",
-  "sections": {}
+  "sections": {
+    "homepage_hero_GDeBtq": {
+      "settings": {
+        "title": "PALKKAPÄIVÄN ALE – 30% ALENNUS",
+        "subtitle": "Osta suosikkituoksusi entistäkin edullisemmilla hinnoilla! Ja säästä vielä enemmän pakettitarjouksilla!",
+        "review_text": "Yli 10 000 asiakasta on jo saanut vastauksen."
+      },
+      "blocks": {}
+    }
+  }
 }

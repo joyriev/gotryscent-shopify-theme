@@ -12,5 +12,13 @@
     "market": "th"
   },
   "parent": "header-group.json",
-  "sections": {}
+  "sections": {
+    "offer_timebar_39KLTc": {
+      "settings": {
+        "prepend_text": "PALKKAPÄIVÄN ALE:",
+        "append_text": "30% ALENNUS"
+      },
+      "blocks": {}
+    }
+  }
 }
