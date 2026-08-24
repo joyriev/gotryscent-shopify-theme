@@ -89,6 +89,23 @@
         "mobile_padding_bottom": 40
       }
     },
+    "blocky_image_embedded_gFdm3L": {
+      "type": "blocky-image-embedded",
+      "name": "Blocky Image Embed",
+      "settings": {
+        "image": "shopify://shop_images/PaydayDeal_Header_-_TryScent_-_SV.webp",
+        "section_height": "650px",
+        "mobile_height": "300px",
+        "image_fit": "cover",
+        "border_radius": 30,
+        "overlay_opacity": 0,
+        "text_align": "vertical-center horizontal-center",
+        "full_screen": false,
+        "page_width": 1200,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -139,6 +156,7 @@
   "order": [
     "banner",
     "collection_header_tY7CQf",
+    "blocky_image_embedded_gFdm3L",
     "product-grid",
     "rich_text_fnCgkL"
   ]
