@@ -91,6 +91,7 @@
     },
     "blocky_image_embedded_gFdm3L": {
       "type": "blocky-image-embedded",
+      "disabled": true,
       "name": "Blocky Image Embed",
       "settings": {
         "image": "shopify://shop_images/PaydayDeal_Header_-_TryScent_-_SV.webp",
