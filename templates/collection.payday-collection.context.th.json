@@ -8,15 +8,16 @@
  * ------------------------------------------------------------
  */
 {
-  "markets": {
-    "sweden": {
-      "parent": "@default"
-    },
-    "australia": {
-      "parent": "@default"
-    },
-    "th": {
-      "parent": "@default"
+  "context": {
+    "market": "th"
+  },
+  "parent": "collection.payday-collection.json",
+  "sections": {
+    "blocky_image_embedded_gFdm3L": {
+      "settings": {
+        "image": "shopify://shop_images/PaydayDeal_Header_-_TryScent_-_FI.webp"
+      },
+      "blocks": {}
     }
   }
 }
