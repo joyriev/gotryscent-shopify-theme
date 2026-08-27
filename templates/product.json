@@ -910,6 +910,7 @@
         "review_itaFnE",
         "review_qLtLjT"
       ],
+      "disabled": true,
       "settings": {
         "background_color": "#fcfbf9",
         "heading": "Bli en av över 10 000 nöjda kunder",
@@ -1071,6 +1072,7 @@
     },
     "cupid-images-slider": {
       "type": "cupid-images-slider",
+      "disabled": true,
       "settings": {
         "padding_top": 72,
         "padding_bottom": 72,
