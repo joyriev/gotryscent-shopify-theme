@@ -146,7 +146,6 @@
       "blocks": {
         "perks_CBpKqp": {
           "type": "perks",
-          "disabled": true,
           "settings": {
             "perk_image": "shopify://shop_images/icons_eu.webp",
             "perk_title": "Tillverkad i EU",
