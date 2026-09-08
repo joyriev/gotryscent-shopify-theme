@@ -17,9 +17,9 @@
       "settings": {
         "background_color": "#15803d",
         "forground_color": "#15803d",
-        "prepend_text": "LÖNEDAGSREA:",
-        "countdown_date": "2026/08/30",
-        "append_text": "30% RABATT",
+        "prepend_text": "LÖNEDKÖP 3, FÅ 1 GRATIS",
+        "countdown_date": "",
+        "append_text": "HANDLA NU",
         "link": "shopify://collections/bundle-save"
       }
     },
