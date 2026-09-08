@@ -12,5 +12,12 @@
     "market": "norway"
   },
   "parent": "index.json",
-  "sections": {}
+  "sections": {
+    "homepage_hero_GDeBtq": {
+      "settings": {
+        "title": "TILBAKE PÅ KONTORET – KJØP 3, FÅ 1 GRATIS"
+      },
+      "blocks": {}
+    }
+  }
 }

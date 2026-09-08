@@ -12,5 +12,13 @@
     "market": "norway"
   },
   "parent": "header-group.json",
-  "sections": {}
+  "sections": {
+    "offer_timebar_39KLTc": {
+      "settings": {
+        "prepend_text": "KJØP 3, FÅ 1 GRATIS",
+        "append_text": "HANDLE NÅ"
+      },
+      "blocks": {}
+    }
+  }
 }

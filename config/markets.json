@@ -17,6 +17,9 @@
     },
     "th": {
       "parent": "@default"
+    },
+    "norway": {
+      "parent": "@default"
     }
   }
 }
