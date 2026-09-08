@@ -15,7 +15,8 @@
   "sections": {
     "homepage_hero_GDeBtq": {
       "settings": {
-        "title": "TILBAKE PÅ KONTORET – KJØP 3, FÅ 1 GRATIS"
+        "title": "TILBAKE PÅ KONTORET – KJØP 3, FÅ 1 GRATIS",
+        "button_text": "Bästsäljare"
       },
       "blocks": {}
     }
